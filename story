@@ -1,3 +1,3 @@
 white hat
 student rocks
-master branch
+master branches
